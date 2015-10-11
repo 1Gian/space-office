@@ -11,23 +11,48 @@
 }
 **/
 
+
+body img {
+
+
+}
+
+
 nav .nav-wrapper {
     position: relative;
     height: 200px;
 }
 
-.container {
+
+.space-container {
+    
+    width: 800px;
+    margin: 0 auto;
+   background: yellow url("of1.png") no-repeat right top;
+
+}
+
+/**    width: 200px;
+    height: 200px;
+    background-image: url('assets/of1.png');
+    position: absolute;
+    z-index: 1;
+}
+**/
+
+/**.container {
 	width: 85px;
 	height:200px;
 }
+**/
 
-.space-container {
+/**.space-container {
     min-height: 380px;
     line-height: 0;
     height: auto;
     color: #52451D;
 }
-
+**/
 
 nav img {
 	width: 800px;
