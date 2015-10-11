@@ -1,4 +1,28 @@
 
+/**#lp-pom-root {
+    display: block;
+    background: #FFF none repeat scroll 0% 0%;
+    border-style: none;
+    margin: auto;
+    padding-bottom: 0px;
+    border-radius: 0px;
+    min-width: 940px;
+    height: 2833px;
+}
+**/
+
+nav .nav-wrapper {
+    position: relative;
+    height: 200px;
+}
+
+.container {
+	width: 85px;
+	height:200px;
+}
+
+
+
 
 nav img {
 	width: 800px;
