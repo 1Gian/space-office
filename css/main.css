@@ -26,9 +26,12 @@ nav .nav-wrapper {
 
 .space-container {
     
-    width: 800px;
+    width: 100%;
     margin: 0 auto;
-   background: yellow url("of1.png") no-repeat right top;
+   background: yellow ;
+   text-align: center;
+   padding-top: 5px;
+   padding-bottom: 5px;
 
 }
 
