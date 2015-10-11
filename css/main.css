@@ -12,7 +12,7 @@
 **/
 
 
-body img {
+body  {
 
 
 }
@@ -32,6 +32,15 @@ nav .nav-wrapper {
    text-align: center;
    padding-top: 5px;
    padding-bottom: 5px;
+   text-transform - opacity: 0.5;
+
+}
+
+.materialboxed {
+
+	width: 105px;
+	height: 30px;
+
 
 }
 
@@ -57,8 +66,3 @@ nav .nav-wrapper {
 }
 **/
 
-nav img {
-	width: 800px;
-	height: 90px;
-	padding-right: 3px;
-}
