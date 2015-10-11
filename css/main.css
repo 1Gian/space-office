@@ -21,7 +21,12 @@ nav .nav-wrapper {
 	height:200px;
 }
 
-
+.space-container {
+    min-height: 380px;
+    line-height: 0;
+    height: auto;
+    color: #52451D;
+}
 
 
 nav img {
