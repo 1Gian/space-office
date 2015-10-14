@@ -32,14 +32,15 @@ nav .nav-wrapper {
    background: yellow ;
    text-align: center;
    padding-top: 10px;
-   padding-bottom: px;
+   padding-bottom: 5px;
    text-transform - opacity: 0.5;
 
 }
 
-{
+.wrapper-clearfix
 
-    
+#innerfull-width {
+    width: 100%;
 }
 
 /**    width: 200px;
