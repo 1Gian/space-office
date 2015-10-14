@@ -31,18 +31,15 @@ nav .nav-wrapper {
     margin: 0 auto;
    background: yellow ;
    text-align: center;
-   padding-top: 5px;
-   padding-bottom: 5px;
+   padding-top: 10px;
+   padding-bottom: px;
    text-transform - opacity: 0.5;
 
 }
 
-.materialboxed {
+{
 
-	width: 105px;
-	height: 30px;
-
-
+    
 }
 
 /**    width: 200px;
