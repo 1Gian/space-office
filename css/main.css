@@ -18,6 +18,11 @@ body  {
 }
 
 
+.nav-container{
+
+    margin- right: 8px;
+}
+
 .brand-logo{
     position: center;
     height: 200px;
@@ -43,10 +48,11 @@ body  {
 
 .inner {
     width: 100%;
+    min-height: 20%;
 }
 .inner img{
     width:100%;
-    height: 10%;
+
 
 }
 
